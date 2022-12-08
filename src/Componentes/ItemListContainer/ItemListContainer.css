@@ -1,0 +1,11 @@
+.itemlistcontainer__producto{
+    display: flex;
+    justify-content: space-around;
+    gap: 1;
+}
+
+.itemlistcontainer__producto__nombre{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
